@@ -1,0 +1,11 @@
+{
+  "name": "reactive-debounce-decorator",
+  "version": "0.1.0",
+  "description": "Reactive debounce decorator.",
+  "main": "src/index.js",
+  "author": "Konrad Kowalski <rootsher@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "rxjs": "^6.5.5"
+  }
+}
